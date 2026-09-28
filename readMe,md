@@ -1,0 +1,81 @@
+# Sweeney Achieng Otieno | Portfolio
+
+A personal portfolio website for **Sweeney Achieng Otieno**, a full stack developer. The site is about me and my achievements: what I've accomplished, the work I'm proud of, and how to get in touch.
+
+It is built with **HTML and CSS only**. There is no JavaScript, no framework, and nothing to install.
+
+**Live site:** [https://sweeneyachieng-sys.github.io/portfolio](https://sweeneyachieng-sys.github.io/portfolio)
+
+
+## About
+
+I'm Sweeney Achieng Otieno, a full stack developer. This portfolio is where I talk about my achievements and share the milestones that show my growth as a developer.
+
+## What's on the site
+
+- **About:** a short introduction to who I am
+- **Achievements:** the accomplishments I'm most proud of
+- **Projects:** selected work with short descriptions
+- **Contact:** how to reach me
+
+## Built With
+
+- **HTML5** for structure and semantic markup
+- **CSS3** for styling, layout (Flexbox and Grid), and responsive design
+
+## Getting Started
+
+### Prerequisites
+
+A web browser. No installation is needed.
+
+### Run locally
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/sweeneyachieng-sys/portfolio.git
+   ```
+
+2. Move into the project folder:
+
+   ```bash
+   cd portfolio
+   ```
+
+3. Open `index.html` in your browser.
+
+## Project Structure
+
+```
+portfolio/
+├── index.html      # Page content and structure
+├── style.css       # Styles and theme colors
+├── images/         # Screenshots and photos
+└── README.md
+```
+
+## Customization
+
+- **Colors and fonts:** edit the variables in the `:root` block at the top of `style.css`.
+- **Achievements and text:** update the content in `index.html`.
+- **Images:** add files to the `images/` folder and reference them with `<img src="images/your-image.jpg" alt="Description">`.
+
+## Deployment
+
+The site can be hosted for free with GitHub Pages:
+
+1. Push the project to a GitHub repository.
+2. Go to **Settings > Pages**.
+3. Under **Source**, choose the `main` branch and the root folder, then save.
+4. Your site will be live within a few minutes.
+
+## Contact
+
+- Email: [achiengsweeney@gmail.com](mailto:achiengsweeney@gmail.com)
+- GitHub: [@sweneyachieng-sys](https://github.com/sweeneyachieng-sys)
+- LinkedIn: [Sweeney Achieng Otieno](https://linkedin.com/in/your-profile)
+
+## License
+
+This project is licensed under the MIT License.
