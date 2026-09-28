@@ -49,8 +49,8 @@ A web browser. No installation is needed.
 
 ```
 portfolio/
-├── index.html      # Page content and structure
-├── style.css       # Styles and theme colors
+├── SP.html      # Page content and structure
+├── SP.css       # Styles and theme colors
 ├── images/         # Screenshots and photos
 └── README.md
 ```
