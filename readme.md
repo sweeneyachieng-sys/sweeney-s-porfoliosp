@@ -9,7 +9,7 @@ It is built with **HTML and CSS only**. There is no JavaScript, no framework, an
 
 ## About
 
-I'm Sweeney Achieng Otieno, a full stack developer. This portfolio is where I talk about my achievements and share the milestones that show my growth as a developer.
+I'm Sweeney Achieng Otieno, a full stack developer. This portfolio is where I talk about my achievements and share the milestones that show my growth as a developer.I am proud to share this with you Guys.
 
 ## What's on the site
 
@@ -75,7 +75,3 @@ The site can be hosted for free with GitHub Pages:
 - Email: [achiengsweeney@gmail.com](mailto:achiengsweeney@gmail.com)
 - GitHub: [@sweneyachieng-sys](https://github.com/sweeneyachieng-sys)
 - LinkedIn: [Sweeney Achieng Otieno](https://linkedin.com/in/your-profile)
-
-## License
-
-This project is licensed under the MIT License.
